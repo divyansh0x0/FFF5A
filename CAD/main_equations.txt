@@ -2,4 +2,4 @@
 "frame_height"= 360mm
 "frame_width"= 320mm
 "frame_length"= 320mm
-"bed_radius"= 200mm
+"bed_radius"= 100mm
