@@ -1,4 +1,5 @@
-﻿"extrusion_width"= 20mm'assuming we are using square beams
-"frame_height"= 400mm'vertical height of the printer
-"frame_width"= 400mm
-"frame_length"= 400mm
+﻿"extrusion_width"= 20mm
+"frame_height"= 360mm
+"frame_width"= 320mm
+"frame_length"= 320mm
+"bed_radius"= 200mm
