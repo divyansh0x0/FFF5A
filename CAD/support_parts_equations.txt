@@ -1,0 +1,2 @@
+﻿"hole_for_extrusion_mounting"= 5mm
+"cantilever_support_thickness"= 5mm
