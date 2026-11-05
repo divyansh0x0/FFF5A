@@ -1,0 +1,8 @@
+﻿"screw_hole"= 3mm
+"offset"= 2.52mm
+"y_length" = 40mm
+"z_breadth"= 29mm
+"lm8uu_bearing_dia"= 15.2mm
+"x_steel_rods_gap"= 50mm
+"a"= 10mm
+"b"= 70mm

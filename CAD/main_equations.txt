@@ -1,5 +1,7 @@
 ﻿"extrusion_width"= 20mm
-"frame_height"= 360mm
+"frame_height"= 440mm
 "frame_width"= 320mm
 "frame_length"= 320mm
 "bed_radius"= 100mm
+"hole_for_extrusion_mounting"= 5mm
+"cantilever_support_thickness"= 5mm
